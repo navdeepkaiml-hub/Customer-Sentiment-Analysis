@@ -1,0 +1,2 @@
+Result plots (sentiment_distribution.png, confusion matrices, etc.) are
+generated automatically here when you run `src/train.py`.
